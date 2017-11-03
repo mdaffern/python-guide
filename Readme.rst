@@ -1,7 +1,7 @@
 Hitchhiker's Guide to Python
 ============================
 
-(python cheat sheet)[https://github.com/mdaffern/python-cheat-sheet]
+https://github.com/mdaffern/python-cheat-sheet
 
 **Python Best Practices Guidebook**
 
