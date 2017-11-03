@@ -1,6 +1,8 @@
 Hitchhiker's Guide to Python
 ============================
 
+(python cheat sheet)[https://github.com/mdaffern/python-cheat-sheet]
+
 **Python Best Practices Guidebook**
 
 .. image:: https://farm1.staticflickr.com/628/33173824932_58add34581_k_d.jpg
